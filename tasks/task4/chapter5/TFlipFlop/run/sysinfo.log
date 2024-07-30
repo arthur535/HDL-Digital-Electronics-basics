@@ -1,0 +1,18 @@
+CPU Arch: x86_64
+Product Name: Rocky Linux 8.10 (Green Obsidian)
+Kernel Type: linux
+Kernel Version: 4.18.0-553.5.1.el8_10.x86_64
+Host Name: student-vm.grovf.com
+CPU Info: model name	: AMD Ryzen Threadripper 2950X 16-Core Processor
+
+GPU Info: N/A
+GPU RAM: N/A
+Starting RAM Info: 
+              total        used        free      shared  buff/cache   available
+Mem:           46Gi        15Gi        27Gi       336Mi       4.4Gi        30Gi
+Swap:          15Gi          0B        15Gi
+
+Ending RAM Info: 
+              total        used        free      shared  buff/cache   available
+Mem:           46Gi        15Gi        27Gi       339Mi       4.4Gi        30Gi
+Swap:          15Gi          0B        15Gi
